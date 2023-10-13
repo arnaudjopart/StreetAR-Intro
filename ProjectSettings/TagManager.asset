@@ -11,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Hide
-  - react
-  - SeeThrough
+  - HoleMask
+  - InsideHole
+  - HoleContent
+  - InsideHoleMask
   - Ground
-  - HideDoor
   - 
   - 
   - 
