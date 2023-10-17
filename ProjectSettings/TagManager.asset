@@ -11,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - HoleMask
+  - SeeThrough
+  - Mask
   - InsideHole
+  - insideHoleMask
   - HoleContent
-  - InsideHoleMask
-  - Ground
   - 
   - 
   - 
@@ -35,7 +35,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - XR Simulation
   - 
   m_SortingLayers:
   - name: Default
